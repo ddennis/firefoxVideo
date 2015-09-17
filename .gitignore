@@ -34,11 +34,7 @@ $RECYCLE.BIN/
 ## Directories
 #################
 
-admin/node_modules/
 node_modules/
-./public/*
-public/
-
 
 
 #################
@@ -47,9 +43,7 @@ public/
 
 ./newrelic_agent.log
 
-public/onairdatastreng.xml
 
-public/screen/video/vid.mov
 newrelic_agent.log
 
 
@@ -61,4 +55,3 @@ newrelic_agent.log
 
 !.elasticbeanstalk/*.global.yml
 
-.awspublish-tv2fan-production
