@@ -1,6 +1,6 @@
-# firefoxVideo
-install node_modules  
+
+# install node_modules
 npm install 
 
-run gulp
+# run gulp
 gulp dev
