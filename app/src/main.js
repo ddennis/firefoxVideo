@@ -20,6 +20,8 @@ var recording = false;
 var videoStream = null;
 
 var videoElement = document.createElement('video');
+videoElement.id = "videoElement"
+
 var playbackVideoContainer = null
 
 function init() {
